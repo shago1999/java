@@ -1,3 +1,4 @@
+// define a class Student with attributes rollno and name .define default and parameterized constructor .override the toString() method .keep the count of object created . create objects using parameterized constructor and display the object count after each object is created
 import java.io.*;
 class Student1
 {
@@ -68,5 +69,3 @@ public class student {
 
 
 
-
-// define a class Student with attributes rollno and name .define default and parameterized constructor .override the toString() method .keep the count of object created . create objects using parameterized constructor and display the object count after each object is created

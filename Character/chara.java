@@ -1,3 +1,4 @@
+package Character;
 public class chara{
 	public static void main(String[] args){
 	char ch;
