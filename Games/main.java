@@ -1,6 +1,6 @@
 import GameLib.*;
 
-public class Game {
+public class main {
     public static void main(String[] args) {
         Indoor[] In = new Indoor[3];
         In[0] = new Indoor("amit");
