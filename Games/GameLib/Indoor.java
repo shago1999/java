@@ -1,19 +1,18 @@
-package Games.GameLib;
+package GameLib;
 
-public class Indoor
-{
+public class Indoor {
     String player;
 
-    public Indoor(String p)
-    {
+    public Indoor(String p) {
         player = p;
     }
-    public void display()
-    {
+
+    public void display() {
         System.out.println(player);
+
     }
-    protected void finalize()
-    {
+
+    protected void finalize() {
         System.out.println("Terminating Indoor....");
     }
 }
