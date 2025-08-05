@@ -3,7 +3,7 @@ package GameLib;
 public class Outdoor {
     String player;
 
-    public Outdoordoor(String p) {
+    public Outdoor(String p) {
         player = p;
     }
 
