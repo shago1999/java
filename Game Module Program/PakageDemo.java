@@ -1,11 +1,9 @@
-package Game ;
-
-
+package Game.* ;
 
 public class PakageDemo 
 {
     public static void main(String[] args) {
-        
+
         Indoor In[] = new Indoor[3];
         In[0] new Indoor("amit");
         In[1] new Indoor("amit01");
