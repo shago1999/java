@@ -1,4 +1,4 @@
-package Games;
+package Games.GameLib;
 
 public class Indoor
 {
