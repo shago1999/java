@@ -11,5 +11,16 @@ public class Game {
         for(int i=0; i < In.length; i++)
             In[i].display();
         System.out.println("indoor players.....");
+
+
+        Outdoor[] Iin = new Outdoor[3];
+        Iin[0] = new Outdoor("amit");
+        Iin[1] = new Outdoor("amit001");
+        Iin[2] = new Outdoor("amit002");
+
+        System.out.println("Outdoor players.....");
+        for(int i=0; i < Iin.length; i++)
+            Iin[i].display();
+        System.out.println("Outdoor players.....");
     }
 }
