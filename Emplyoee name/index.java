@@ -11,6 +11,12 @@ class InvalidName extends ExecutionException
     }
 }
 
-public class index {
 
+
+public class index {
+    String name,str;
+    char ch;
+    int j.flag = 0;
+    DataInputStream din = new DataInputStream(System.in);
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 }
